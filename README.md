@@ -4,7 +4,9 @@ This repository implements a Reinforcement Learning-based solution for reducing 
 
 ## 📚 Citation
 
-If you use this code in your research, please cite:```bibtex
+If you use this code in your research, please cite:
+
+```bibtex
 @article{serverless2024,
     title={On-demand Cold Start Frequency Reduction with Off-Policy 
            Reinforcement Learning in Serverless Computing},
